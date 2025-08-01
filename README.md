@@ -39,5 +39,4 @@ async operations.✅
 ● Persist the last searched city using SharedPreferences✅
 ● Unit test one part (e.g., ViewModel or Repository).✅
 
-● Improve the UI or add one/two small features of your own design
 
